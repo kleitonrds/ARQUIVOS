@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 6
+    },
+    {
+      "name": "mouse",
+      "price": "30",
+      "id": 7
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": 8
+    },
+    {
+      "name": "Fone Gamer",
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "asas",
+      "price": "12",
+      "id": 10
+    },
+    {
+      "name": "asas",
+      "price": "12",
+      "id": 11
+    },
+    {
+      "name": "aasas",
+      "price": "223",
+      "id": 12
+    },
+    {
+      "name": "aasas",
+      "price": "223",
+      "id": 13
+    },
+    {
+      "name": "sasa",
+      "price": "11212",
+      "id": 14
+    },
+    {
+      "name": "sasa",
+      "price": "11212",
+      "id": 15
+    },
+    {
+      "name": "qqq",
+      "price": "2",
+      "id": 16
+    },
+    {
+      "name": "qqq",
+      "price": "2",
+      "id": 17
+    },
+    {
+      "name": "wqqw",
+      "price": "2",
+      "id": 18
+    },
+    {
+      "name": "wqqw",
+      "price": "2",
+      "id": 19
+    },
+    {
+      "name": "suporte monitor",
+      "price": "120",
+      "id": 20
+    },
+    {
+      "name": "suporte microfone",
+      "price": "60",
+      "id": 21
+    },
+    {
+      "name": "suporte microfone",
+      "price": "60",
+      "id": 22
+    },
+    {
+      "name": "suporte 2",
+      "price": "323",
+      "id": 23
+    }
+  ]
+}
